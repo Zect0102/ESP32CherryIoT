@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/npm/cli/releases/tag/v11.4.1/static/css/main.f855e6bc.css",
+    "main.js": "/npm/cli/releases/tag/v11.4.1/static/js/main.3bd2280e.js",
+    "static/js/453.8566eefc.chunk.js": "/npm/cli/releases/tag/v11.4.1/static/js/453.8566eefc.chunk.js",
+    "index.html": "/npm/cli/releases/tag/v11.4.1/index.html",
+    "main.f855e6bc.css.map": "/npm/cli/releases/tag/v11.4.1/static/css/main.f855e6bc.css.map",
+    "main.3bd2280e.js.map": "/npm/cli/releases/tag/v11.4.1/static/js/main.3bd2280e.js.map",
+    "453.8566eefc.chunk.js.map": "/npm/cli/releases/tag/v11.4.1/static/js/453.8566eefc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3bd2280e.js"
+  ]
+}
